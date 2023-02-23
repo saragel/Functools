@@ -1,0 +1,19 @@
+{
+  "name": "functools",
+  "version": "1.0.0",
+  "description": "Una librería de programación funcional",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "libreria",
+    "functional",
+    "programming"
+  ],
+  "author": "Ekaitz Zarraga",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
