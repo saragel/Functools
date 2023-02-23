@@ -1,4 +1,4 @@
-import {map, filter, reduce} from "../src/js"
+import {map, filter, reduce} from "../src/functools.js"
 
 describe("Testeo de Map", ()=>{
   test("map: 1,2,3 (+1) -> 2,3,4", ()=>{
