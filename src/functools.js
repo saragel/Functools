@@ -24,8 +24,4 @@ function reduce(col, f, val0){
   return result;
 }
 
-module.exports = {
-  map: map,
-  filter: filter,
-  reduce: reduce
-}
+export {map, filter, reduce}

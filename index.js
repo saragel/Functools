@@ -1,1 +1,1 @@
-module.exports = require("./src/functools.js")
+export * from "./src/functools.js"
